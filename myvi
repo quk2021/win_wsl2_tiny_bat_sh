@@ -1,0 +1,4 @@
+#!/bin/bash
+# this also works: /mnt/c/windows/system32/cmd.exe /mnt/c/user/0bin/myvi.bat
+# note: cannot pass in parameter!!!
+cmd.exe /c myvi.bat 
